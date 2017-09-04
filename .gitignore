@@ -1,17 +1,33 @@
-*/config/development
-*/logs/log-*.php
-!*/logs/index.html
-*/cache/*
-!*/cache/index.html
-!*/cache/.htaccess
+.DS_Store
 
-user_guide_src/build/*
-user_guide_src/cilexer/build/*
-user_guide_src/cilexer/dist/*
-user_guide_src/cilexer/pycilexer.egg-info/*
+app/config/database.php
 
-#codeigniter 3
-application/logs/*
-!application/logs/index.html
-!application/logs/.htaccess
-/vendor/
+storage/views/*
+
+storage/cache/*
+!storage/cache/index.html
+!storage/cache/.htaccess
+
+storage/logs/*
+!storage/logs/index.html
+!storage/logs/.htaccess
+
+composer.lock
+
+vendor/
+
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
+#my
+catatan.txt

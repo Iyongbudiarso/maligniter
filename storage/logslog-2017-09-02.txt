@@ -1,0 +1,84 @@
+ERROR - 2017-09-02 16:59:08 --> Severity: Notice --> Undefined index: HTTP_HOST /var/www-nginx/html/ppsdma/app/config/config.php 4
+INFO - 2017-09-02 16:59:08 --> Config Class Initialized
+INFO - 2017-09-02 16:59:08 --> Hooks Class Initialized
+DEBUG - 2017-09-02 16:59:08 --> UTF-8 Support Enabled
+INFO - 2017-09-02 16:59:08 --> Utf8 Class Initialized
+INFO - 2017-09-02 16:59:08 --> URI Class Initialized
+INFO - 2017-09-02 16:59:08 --> Router Class Initialized
+INFO - 2017-09-02 16:59:08 --> Output Class Initialized
+INFO - 2017-09-02 16:59:08 --> Security Class Initialized
+DEBUG - 2017-09-02 16:59:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-09-02 16:59:08 --> Input Class Initialized
+INFO - 2017-09-02 16:59:08 --> Language Class Initialized
+INFO - 2017-09-02 16:59:08 --> Language Class Initialized
+INFO - 2017-09-02 16:59:08 --> Config Class Initialized
+INFO - 2017-09-02 16:59:08 --> Loader Class Initialized
+DEBUG - 2017-09-02 16:59:08 --> Config file loaded: /var/www-nginx/html/ppsdma/app/config/setting.php
+INFO - 2017-09-02 16:59:08 --> Helper loaded: url_helper
+INFO - 2017-09-02 16:59:08 --> Helper loaded: settings_helper
+INFO - 2017-09-02 16:59:08 --> Database Driver Class Initialized
+DEBUG - 2017-09-02 16:59:08 --> Session: Initialization under CLI aborted.
+INFO - 2017-09-02 16:59:08 --> Controller Class Initialized
+ERROR - 2017-09-02 16:59:08 --> Query error: Table 'db_ppsdma.maxvel_post' doesn't exist - Invalid query: SELECT *
+FROM `maxvel_post`
+WHERE `slug` = 'Migrate'
+ LIMIT 1
+INFO - 2017-09-02 16:59:08 --> Language file loaded: language/indonesia/db_lang.php
+ERROR - 2017-09-02 16:59:08 --> Severity: Warning --> include(/var/www-nginx/html/ppsdma/resources/errors/cli/error_db.php): failed to open stream: No such file or directory /var/www-nginx/html/ppsdma/.system/core/Exceptions.php 182
+ERROR - 2017-09-02 16:59:08 --> Severity: Warning --> include(): Failed opening '/var/www-nginx/html/ppsdma/resources/errors/cli/error_db.php' for inclusion (include_path='.:/usr/share/php') /var/www-nginx/html/ppsdma/.system/core/Exceptions.php 182
+ERROR - 2017-09-02 16:59:31 --> Severity: Notice --> Undefined index: HTTP_HOST /var/www-nginx/html/ppsdma/app/config/config.php 4
+INFO - 2017-09-02 16:59:31 --> Config Class Initialized
+INFO - 2017-09-02 16:59:31 --> Hooks Class Initialized
+DEBUG - 2017-09-02 16:59:31 --> UTF-8 Support Enabled
+INFO - 2017-09-02 16:59:31 --> Utf8 Class Initialized
+INFO - 2017-09-02 16:59:31 --> URI Class Initialized
+INFO - 2017-09-02 16:59:31 --> Router Class Initialized
+INFO - 2017-09-02 16:59:31 --> Output Class Initialized
+INFO - 2017-09-02 16:59:31 --> Security Class Initialized
+DEBUG - 2017-09-02 16:59:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-09-02 16:59:31 --> Input Class Initialized
+INFO - 2017-09-02 16:59:31 --> Language Class Initialized
+INFO - 2017-09-02 16:59:31 --> Language Class Initialized
+INFO - 2017-09-02 16:59:31 --> Config Class Initialized
+INFO - 2017-09-02 16:59:31 --> Loader Class Initialized
+DEBUG - 2017-09-02 16:59:31 --> Config file loaded: /var/www-nginx/html/ppsdma/app/config/setting.php
+INFO - 2017-09-02 16:59:31 --> Helper loaded: url_helper
+INFO - 2017-09-02 16:59:31 --> Helper loaded: settings_helper
+INFO - 2017-09-02 16:59:31 --> Database Driver Class Initialized
+DEBUG - 2017-09-02 16:59:31 --> Session: Initialization under CLI aborted.
+INFO - 2017-09-02 16:59:31 --> Controller Class Initialized
+ERROR - 2017-09-02 16:59:31 --> Query error: Table 'db_ppsdma.maxvel_post' doesn't exist - Invalid query: SELECT *
+FROM `maxvel_post`
+WHERE `slug` = 'migrate'
+ LIMIT 1
+INFO - 2017-09-02 16:59:31 --> Language file loaded: language/indonesia/db_lang.php
+ERROR - 2017-09-02 16:59:31 --> Severity: Warning --> include(/var/www-nginx/html/ppsdma/resources/errors/cli/error_db.php): failed to open stream: No such file or directory /var/www-nginx/html/ppsdma/.system/core/Exceptions.php 182
+ERROR - 2017-09-02 16:59:31 --> Severity: Warning --> include(): Failed opening '/var/www-nginx/html/ppsdma/resources/errors/cli/error_db.php' for inclusion (include_path='.:/usr/share/php') /var/www-nginx/html/ppsdma/.system/core/Exceptions.php 182
+ERROR - 2017-09-02 16:59:38 --> Severity: Notice --> Undefined index: HTTP_HOST /var/www-nginx/html/ppsdma/app/config/config.php 4
+INFO - 2017-09-02 16:59:38 --> Config Class Initialized
+INFO - 2017-09-02 16:59:38 --> Hooks Class Initialized
+DEBUG - 2017-09-02 16:59:38 --> UTF-8 Support Enabled
+INFO - 2017-09-02 16:59:38 --> Utf8 Class Initialized
+INFO - 2017-09-02 16:59:38 --> URI Class Initialized
+INFO - 2017-09-02 16:59:38 --> Router Class Initialized
+INFO - 2017-09-02 16:59:38 --> Output Class Initialized
+INFO - 2017-09-02 16:59:38 --> Security Class Initialized
+DEBUG - 2017-09-02 16:59:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-09-02 16:59:38 --> Input Class Initialized
+INFO - 2017-09-02 16:59:38 --> Language Class Initialized
+INFO - 2017-09-02 16:59:38 --> Language Class Initialized
+INFO - 2017-09-02 16:59:38 --> Config Class Initialized
+INFO - 2017-09-02 16:59:38 --> Loader Class Initialized
+DEBUG - 2017-09-02 16:59:38 --> Config file loaded: /var/www-nginx/html/ppsdma/app/config/setting.php
+INFO - 2017-09-02 16:59:38 --> Helper loaded: url_helper
+INFO - 2017-09-02 16:59:38 --> Helper loaded: settings_helper
+INFO - 2017-09-02 16:59:38 --> Database Driver Class Initialized
+DEBUG - 2017-09-02 16:59:38 --> Session: Initialization under CLI aborted.
+INFO - 2017-09-02 16:59:38 --> Controller Class Initialized
+ERROR - 2017-09-02 16:59:38 --> Query error: Table 'db_ppsdma.maxvel_post' doesn't exist - Invalid query: SELECT *
+FROM `maxvel_post`
+WHERE `slug` = 'migrate'
+ LIMIT 1
+INFO - 2017-09-02 16:59:38 --> Language file loaded: language/indonesia/db_lang.php
+ERROR - 2017-09-02 16:59:38 --> Severity: Warning --> include(/var/www-nginx/html/ppsdma/resources/errors/cli/error_db.php): failed to open stream: No such file or directory /var/www-nginx/html/ppsdma/.system/core/Exceptions.php 182
+ERROR - 2017-09-02 16:59:38 --> Severity: Warning --> include(): Failed opening '/var/www-nginx/html/ppsdma/resources/errors/cli/error_db.php' for inclusion (include_path='.:/usr/share/php') /var/www-nginx/html/ppsdma/.system/core/Exceptions.php 182
